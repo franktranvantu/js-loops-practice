@@ -1,0 +1,1 @@
+In this practice session, you'll use a loop to create a number guessing game.
